@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BirukTassew
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Computer Science 
